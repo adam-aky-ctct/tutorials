@@ -4,8 +4,7 @@
 
 # Support
 
-☕ - [Buy Me a Coffee](https://www.buymeacoffee.com/antonputra)  
-🎁 - [GitHub Sponsors](https://github.com/sponsors/antonputra)  
+☕ - [Buy Me a Coffee](https://www.buymeacoffee.com/antonputra)
 
 # Contents
 
@@ -14,7 +13,6 @@
 # Social
 
 🎥 - [YouTube](https://www.youtube.com/c/AntonPutra)  
-🎮 - [Discord](https://discord.gg/Wy5SPDSTjX)  
 💼 - [LinkedIn](https://www.linkedin.com/in/anton-putra)  
 🎙 - [Twitter](https://twitter.com/antonvputra)  
 📨 - me@antonputra.com  
