@@ -1,10 +1,6 @@
-# Tutorials
+# New Video - https://youtu.be/gqb7LmmXuyw
 
-![YouTube Art](assets/youtube-art.png?raw=true "Title")
-
-# Support
-
-☕ - [Buy Me a Coffee](https://www.buymeacoffee.com/antonputra)
+[<img src="assets/191.png?raw=true">](https://youtu.be/gqb7LmmXuyw)
 
 # Contents
 
@@ -14,5 +10,5 @@
 
 🎥 - [YouTube](https://www.youtube.com/c/AntonPutra)  
 💼 - [LinkedIn](https://www.linkedin.com/in/anton-putra)  
-🎙 - [Twitter](https://twitter.com/antonvputra)  
+🛠️ - [X](https://x.com/antonvputra)  
 📨 - me@antonputra.com  
